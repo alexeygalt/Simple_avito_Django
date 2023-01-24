@@ -4,7 +4,7 @@
 ## Install:
 
 - Use git clone `https://github.com/alexeygalt/Simple_avito_Django.git`
-- To start app use :  `cd market_postgres and` `docker-compose up -d`
+- To start app use :  `cd market_postgres` and `docker-compose up -d`
 
 
 ## Testing:
