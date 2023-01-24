@@ -5,6 +5,8 @@
 
 - Use git clone `https://github.com/alexeygalt/Simple_avito_Django.git`
 - To start app use :  `cd market_postgres` and `docker-compose up -d`
+- Create .env (check env.example)
+- Use `python manage.py migrate` and load fixtures
 
 
 ## Testing:
